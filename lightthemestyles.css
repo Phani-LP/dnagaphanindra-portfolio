@@ -1,4 +1,4 @@
-@media (min-width: 1080px) {
+@media (min-width: 1001.9px) {
     body {
         background: linear-gradient(135deg, #e0eafc, #68a2e5);
         /* Cool-looking page background */
@@ -465,39 +465,49 @@
 
 }
 
+/* 
+@media(max-width: 600px) {
+    body {
+        background: linear-gradient(135deg, #e0eafc, #68a2e5);
+    }
+
+    #Navigation {
+        background: rgba(255, 255, 255, 0.2);
+        backdrop-filter: blur(10px);
+    }
+
+    #hero {
+        background: rgba(255, 255, 255, 0.5);
+        backdrop-filter: blur(5px);
+    }
+
+    #skills {
+        background: rgba(255, 255, 255, 0.3);
+        backdrop-filter: blur(5px);
+    }
+
+    .project {
+        background: rgba(255, 255, 255, 0.5);
+        backdrop-filter: blur(5px);
+    }
+
+    .project:hover {
+        background: rgba(255, 255, 255, 0.7);
+    }
+
+    form input,
+    form textarea {
+        background: rgba(255, 255, 255, 0.3);
+        backdrop-filter: blur(5px);
+    }
+
+    /* ... (rest of the styles remain the same) ... */
+/* } */
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media (min-width: 889.9px) and (max-width: 1079.9px) {
+@media (min-width: 889.9px) and (max-width: 1001px) {
     body {
         background: linear-gradient(135deg, #e0eafc, #68a2e5);
         /* Cool-looking page background */
@@ -1466,7 +1476,7 @@
 }
 
 
-@media (min-width:360px) and (max-width: 414.99px) {
+@media (min-width:340px) and (max-width: 414.99px) {
 
     /* Targeting mobile screens */
     html {
@@ -1589,7 +1599,7 @@
         /* Hide hero image on mobile */
     }
 
-    @media (min-width: 360px) and (max-width: 414.99px) {
+   
         #hero {
             display: flex;
             padding: 10px;
