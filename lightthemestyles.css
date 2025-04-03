@@ -1770,7 +1770,8 @@
             margin: 20px auto;
             border-radius: 10px;
             /* transition: background-color 0.7s ease; */
-            background: rgb(238 238 238 / 70%);
+/*             background: rgb(238 238 238 / 70%); */
+            background: linear-gradient(135deg, #dee5ff, #8a97d000);
             /* backdrop-filter: blur(5px); */
             box-shadow: 0 0 5px #277b97;
         }
