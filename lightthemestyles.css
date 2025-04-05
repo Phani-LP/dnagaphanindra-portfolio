@@ -374,7 +374,6 @@
     }
 
     .CV_btn {
-        margin-left: 25px;
         margin-top: 20px;
         text-decoration: none;
         color: #fff;
@@ -465,44 +464,35 @@
 
 }
 
-/* 
-@media(max-width: 600px) {
-    body {
-        background: linear-gradient(135deg, #e0eafc, #68a2e5);
-    }
 
-    #Navigation {
-        background: rgba(255, 255, 255, 0.2);
-        backdrop-filter: blur(10px);
-    }
 
-    #hero {
-        background: rgba(255, 255, 255, 0.5);
-        backdrop-filter: blur(5px);
-    }
 
-    #skills {
-        background: rgba(255, 255, 255, 0.3);
-        backdrop-filter: blur(5px);
-    }
 
-    .project {
-        background: rgba(255, 255, 255, 0.5);
-        backdrop-filter: blur(5px);
-    }
 
-    .project:hover {
-        background: rgba(255, 255, 255, 0.7);
-    }
 
-    form input,
-    form textarea {
-        background: rgba(255, 255, 255, 0.3);
-        backdrop-filter: blur(5px);
-    }
 
-    /* ... (rest of the styles remain the same) ... */
-/* } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -893,8 +883,7 @@
         align-items: baseline;
     }
 
-    .CV_btn {
-        margin-left: 25px;
+    .CV_btn
         margin-top: 20px;
         text-decoration: none;
         color: #fff;
@@ -1381,7 +1370,6 @@
     }
 
     .CV_btn {
-
         margin-top: 20px;
         text-decoration: none;
         color: #fff;
