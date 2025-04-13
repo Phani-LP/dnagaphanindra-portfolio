@@ -497,7 +497,7 @@
 
 
 
-@media (min-width: 889.9px) and (max-width: 1001px) {
+@media (min-width: 889.9px) and (max-width: 1001.8px) {
     body {
         background: linear-gradient(135deg, #e0eafc, #68a2e5);
         /* Cool-looking page background */
@@ -883,7 +883,7 @@
         align-items: baseline;
     }
 
-    .CV_btn
+    .CV_btn{
         margin-top: 20px;
         text-decoration: none;
         color: #fff;
